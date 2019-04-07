@@ -1,0 +1,41 @@
+[
+    {
+        "romName": "ZirconiumAosp",
+        "path": "ZirconiumAosp",
+        "deviceData": [
+            {
+                "name": "mido",
+                "builds": [
+                    {
+                        "name": "ZirconiumAosp-9.0-IGNITE-mido-20190316-1029-OFFICIAL.zip",
+                        "url": "https://sourceforge.net/projects/zirconiumaosp/files/mido/ZirconiumAosp-9.0-IGNITE-mido-20190316-1029-OFFICIAL.zip/download"
+                    }
+                ]
+            },
+            {
+                "name": "lettuce",
+                "builds": [
+                    {
+                        "name": "ZirconiumAosp-9.0-IGNITE-lettuce-20190316-0915-OFFICIAL.zip",
+                        "url": "https://sourceforge.net/projects/zirconiumaosp/files/lettuce/ZirconiumAosp-9.0-IGNITE-lettuce-20190316-0915-OFFICIAL.zip/download"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "romName": "PrismaOS",
+        "path": "prisma",
+        "deviceData": [
+            {
+                "name": "lettuce",
+                "builds": [
+                    {
+                        "name": "PixelDirty_lettuce-9.0-20190402-1046-OFFICIAL.zip",
+                        "url": "https://downloads.sourceforge.net/project/pixeldirty/lettuce/PixelDirty_lettuce-9.0-20190402-1046-OFFICIAL.zip?r=&ts=1554627943&use_mirror=liquidtelecom"
+                    }
+                ]
+            }
+        ]
+    }
+]
