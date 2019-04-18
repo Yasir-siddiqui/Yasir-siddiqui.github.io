@@ -37,5 +37,20 @@
                 ]
             }
         ]
+    },
+    {
+        "romName": "OrangeFox Recovery",
+        "path": "orangefox",
+        "deviceData": [
+            {
+                "name": "X01BD",
+                "builds": [
+                    {
+                        "name": "OrangeFox-Unofficial-X01BD.zip",
+                        "url": "https://forum.xda-developers.com/max-pro-m2/development/recovery-orangefox-recovery-project-t3922024"
+                    }
+                ]
+            }
+        ]
     }
 ]
