@@ -46,7 +46,7 @@
                 "name": "Redmi Go (tiare)",
                 "builds": [
                     {
-                        "name": "recovery.img",
+                        "name": "TWRP-Unofficial-tiare",
                         "url": "https://forum.xda-developers.com/android/development/recovery-twrp-3-3-0-redmi-t3929282/amp/"
                     }
                 ]
