@@ -43,7 +43,7 @@
         "path": "twrp",
         "deviceData": [
             {
-                "name": "Redmi Go (tiare)",
+                "name": "tiare",
                 "builds": [
                     {
                         "name": "TWRP-Unofficial-tiare",
