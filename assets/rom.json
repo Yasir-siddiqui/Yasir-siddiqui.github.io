@@ -1,38 +1,14 @@
 [
     {
-        "romName": "ZirconiumAosp",
-        "path": "ZirconiumAosp",
+        "romName": "Kernel",
+        "path": "notkernel",
         "deviceData": [
             {
-                "name": "mido",
+                "name": "lavender",
                 "builds": [
                     {
-                        "name": "ZirconiumAosp-9.0-IGNITE-mido-20190316-1029-OFFICIAL.zip",
-                        "url": "https://sourceforge.net/projects/zirconiumaosp/files/mido/ZirconiumAosp-9.0-IGNITE-mido-20190316-1029-OFFICIAL.zip/download"
-                    }
-                ]
-            },
-            {
-                "name": "lettuce",
-                "builds": [
-                    {
-                        "name": "ZirconiumAosp-9.0-IGNITE-lettuce-20190316-0915-OFFICIAL.zip",
-                        "url": "https://sourceforge.net/projects/zirconiumaosp/files/lettuce/ZirconiumAosp-9.0-IGNITE-lettuce-20190316-0915-OFFICIAL.zip/download"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "romName": "PrismaOS",
-        "path": "prisma",
-        "deviceData": [
-            {
-                "name": "lettuce",
-                "builds": [
-                    {
-                        "name": "PixelDirty_lettuce-9.0-20190402-1046-OFFICIAL.zip",
-                        "url": "https://downloads.sourceforge.net/project/pixeldirty/lettuce/PixelDirty_lettuce-9.0-20190402-1046-OFFICIAL.zip?r=&ts=1554627943&use_mirror=liquidtelecom"
+                        "name": "NotKernel-20191022-lavender.zip",
+                        "url": "https://forum.xda-developers.com/redmi-note-7/development/kernel-notkernel-t3988221/post80624071#post80624071"
                     }
                 ]
             }
@@ -48,21 +24,6 @@
                     {
                         "name": "TWRP-Unofficial-tiare",
                         "url": "https://forum.xda-developers.com/android/development/recovery-twrp-3-3-0-redmi-t3929282/amp/"
-                    }
-                ]
-            }
-        ]
-     },
-     {
-        "romName": "Kernel",
-        "path": "kernel",
-        "deviceData": [
-            {
-                "name": "lavender",
-                "builds": [
-                    {
-                        "name": "NotKernel-20191022-lavender.zip",
-                        "url": "https://forum.xda-developers.com/redmi-note-7/development/kernel-notkernel-t3988221/post80624071#post80624071"
                     }
                 ]
             }
