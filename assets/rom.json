@@ -52,5 +52,20 @@
                 ]
             }
         ]
+     },
+     {
+        "romName": "Kernel",
+        "path": "kernel",
+        "deviceData": [
+            {
+                "name": "lavender",
+                "builds": [
+                    {
+                        "name": "NotKernel-20191022-lavender.zip",
+                        "url": "https://forum.xda-developers.com/redmi-note-7/development/kernel-notkernel-t3988221/post80624071#post80624071"
+                    }
+                ]
+            }
+        ]
     }
 ]
